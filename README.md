@@ -5,5 +5,5 @@
 
 <h3>No arquivo 'merges' temos vários algorimtos de ordenação(sort),que organizam números dispostos aleatoriamente num array de números.</h3>
 
-<h3><a href='https://pt.khanacademy.org/computing/computer-science/algorithms'>Link para saber mais sobre todos os algoritmos aqui escritos.</a></h3>
+<h3><a href='https://pt.khanacademy.org/computing/computer-science/algorithms'>Para saber mais sobre todos os algoritmos aqui escritos, clique aqui.</a></h3>
 
